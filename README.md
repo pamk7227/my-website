@@ -1,1 +1,1 @@
-# my-website
+License: Public Domain
